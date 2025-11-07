@@ -9,4 +9,3 @@ export const ENV = {
   EMAIL_FROM_NAME: process.env.EMAIL_FROM_NAME,
   CLIENT_URL: process.env.CLIENT_URL || "http://localhost:5173",
 };
-
